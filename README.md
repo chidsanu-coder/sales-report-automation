@@ -23,8 +23,10 @@ pip install pandas openpyxl
 2. รัน `python daily_report.py`
 3. รับไฟล์รายงานในโฟลเดอร์ `output/`
 
-## โครงสร้างโฟลเดอร์
+## 📁 โครงสร้างโฟลเดอร์
 daily_report/
 ├── input/
+│   └── .gitkeep
 ├── output/
+│   └── .gitkepp
 └── daily_report.py
