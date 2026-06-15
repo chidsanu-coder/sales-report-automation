@@ -24,7 +24,7 @@ pip install pandas openpyxl
 3. รับไฟล์รายงานในโฟลเดอร์ `output/`
 
 ## 📁 โครงสร้างโฟลเดอร์
-daily_report/
+sales-report-automation/
 ├── input/
 │   └── .gitkeep
 ├── output/
